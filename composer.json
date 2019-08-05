@@ -1,5 +1,5 @@
 {
-    "name": "joselfonseca/lighthouse-graphql-passport-auth",
+    "name": "alexaandrov/lighthouse-graphql-passport-auth",
     "description": "Add GraphQL types and mutations for login and recover password functionalities",
     "keywords": ["laravel", "GraphQL", "lighthouse", "passport-auth"],
     "type": "library",
